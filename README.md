@@ -7,8 +7,8 @@ Get the Latest News From 3 Different sources!
 
 ## Routes
 
-1 `/` -> Client Site
-2 `/api` -> API Route
+1. `/` -> Client Site
+2. `/api` -> API Route
 
 ## Query Paramenters
 1. `/api/?page=` - Default value is `1`
